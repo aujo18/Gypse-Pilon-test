@@ -1,0 +1,19 @@
+.container {
+  @apply relative bottom-20;
+}
+
+.article-title {
+  @apply text-gray-title text-3xl font-bold;
+}
+
+.article {
+  @apply prose text-gray-text mt-4;
+}
+
+.wrapper {
+  @apply md:grid grid-cols-2 gap-8 mt-16;
+}
+
+.image {
+  @apply mt-8 md:mt-0;
+}

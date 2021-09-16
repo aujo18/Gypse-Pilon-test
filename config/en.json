@@ -1,0 +1,56 @@
+{
+  "Navbar": {
+    "0": "about us",
+    "1": "products",
+    "2": "achievements",
+    "3": "contact us",
+    "4": "FRANÇAIS"
+  },
+
+  "Hero": {
+    "title": "Need a high-performance ventilation system?",
+    "subtitle": "We design solutions for business, industry and home use.",
+    "button": "Contact Us"
+  },
+
+  "Presentation": {
+    "title": "ventilation air j.c.",
+    "articleTitle": "CONTRACTOR SPECIALIZING IN VENTILATION, HEATING AND AIR CONDITIONING",
+    "article": "Whatever your ventilation/heating/air conditioning needs, Ventilation Air J.C. Inc. has a solution for you. We have been installing ventilation ducts, heating and air conditioning systems in the Vaudreuil-Soulanges region and in Greater Montréal for over 30 years. Backed by our extensive experience, we provide consultation services and execute contracts in the commercial, industrial and residential sectors. Ventilation Air J.C. Inc. enjoys a wide reputation for exceptional quality work. Each contract entrusted to us, regardless of complexity or sector, is given a unique design adapted to the needs and constraints of the building it’s intended for, so that it fully responds to your needs."
+  },
+
+  "Testimonials": {
+    "title": "Testimonials",
+
+    "0": "We have been doing business with Ventilation Air J.C. Inc. ever since our start-up as évoilà5 and we are extremely satisfied! Meticulous work and excellent customer service!",
+    "0-author": "Josée Corbeil of évoilà5",
+    "1": "A big thank-you to Ventilation Air J.C. for installing my home air exchanger. We were very pleased with our experience and highly recommend this company.",
+    "1-author": "Diane & Gaetan (St-Zotique)",
+    "2": "We do business with Ventilation Air J.C. For our special and complex projects, they meet all the challenges with great satisfaction!",
+    "2-author": "Serge Dubé of Technologies SMARTREF inc."
+  },
+
+  "Partners": {
+    "title": "OUR VENTILATION, HEATING AND AIR CONDITIONING PRODUCTS:",
+    "description": "We offer the leading brands in the ventilation, air conditioning and heating industry. Can’t find the brand you want? Contact us and we’ll get it for you!"
+  },
+
+  "Achievements": {
+    "title": "our achievements",
+    "paragraph": "Numerous large-scale companies have entrusted us with the design, manufacture and installation of their ventilation, air conditioning or heating systems, including: Restaurant H4C (Montréal), Pharmacie Jean Coutu (Les Coteaux), évoilà5 (Vaudreuil-Dorion, Rosemère, Brossard) BMR FV Lalonde, Vaudreuil Honda, HomeSense (Vaudreuil-Dorion), Omer de Serres (Vaudreuil-Dorion), Dynamite (Vaudreuil-Dorion), L’Équipeur (Vaudreuil-Dorion, Valleyfield), Bulk Barn (Valleyfield), Mondou (Valleyfield), SAQ (Les Coteaux), Metro (Saint-Zotique), Collège de Valleyfield, Restaurant Mia Pasta (Gatineau, Valleyfield), Resto La place du lac, Forever 21 (Vaudreuil-Dorion), Dollarama (Brossard), Garderie Zoukakou (Beauharnois), and more!"
+  },
+
+  "ContactUs": {
+    "title": "CONTACT US",
+    "presentation": "Looking for a system that will guarantee optimum air quality and comfort in your home, business or industry? Free estimate with no commitment on your part. Contact us!",
+    "contactTitle": "VENTILATION AIR J.C.",
+    "phoneLabel": "Phone",
+    "mobileLabel": "Mobile",
+    "emailLabel": "Email",
+    "faxLabel": "Fax"
+  },
+
+  "Footer": {
+    "text": "Tous droits réservés © 2021. Ventilation Air J. C.. | Création de site internet par ÉQUATION"
+  }
+}

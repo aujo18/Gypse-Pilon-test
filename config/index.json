@@ -1,0 +1,86 @@
+{
+  "primaryColor": "#c58037",
+
+  "logo": {
+    "fileName": "logo.png",
+    "height": 75,
+    "width": 313
+  },
+
+  "heroImage": {
+    "filename": "hero-image.jpg",
+    "alt": "<Image description, provide this for accessibility>"
+  },
+
+  "presentationImage": {
+    "filename": "presentation-image.jpg",
+    "alt": "<Image description, provide this for accessibility>"
+  },
+
+  "testimonials": {
+    "num": 3
+  },
+
+  "partners": [
+    { "logo-filname": "daikin-logo.jpg", "name": "dalkin" },
+    { "logo-filname": "deluxair-logo.jpg", "name": "deluxair" },
+    { "logo-filname": "gree-logo.jpg", "name": "gree" },
+    { "logo-filname": "kelvinator-logo.jpg", "name": "kelvinator" },
+    { "logo-filname": "maxiair-logo.jpg", "name": "maxiair" },
+    { "logo-filname": "payne-logo.jpg", "name": "payne" },
+    { "logo-filname": "sensi-logo.jpg", "name": "sensi" },
+    { "logo-filname": "summeraire-logo.jpg", "name": "summeraire" },
+    { "logo-filname": "vanee.jpg", "name": "vanee" },
+    { "logo-filname": "venmar-logo.jpg", "name": "venmar" },
+    { "logo-filname": "windair.jpg", "name": "windair" },
+    { "logo-filname": "york-logo.jpg", "name": "york" }
+  ],
+
+  "contacts": {
+    "address": "199, rue de l'École, Les Coteaux, QC J7X 1A2", 
+    "phone": "(450) 267-9255",
+    "mobile": "(514) 809-8755",
+    "email": "adm@airjc.ca",
+    "fax": "(450) 267-7053",
+    "additional": "# R.B.Q.: 8332-3360-05"
+  },
+
+  "achievements": {
+    "backgroundFilename": "achievement-bg.jpg",
+    "photosSlideshow": [
+      {
+        "title": "forever 21",
+        "filename": "realisations-forever21-1.jpg"
+      },
+      {
+        "title": "forever 21",
+        "filename": "realisations-forever21-2.jpg"
+      },
+      {
+        "title": "forever 21",
+        "filename": "realisations-forever21-3.jpg"
+      },
+      {
+        "title": "dollorama",
+        "filename": "realisations-dollorama-1.jpg"
+      },
+      {
+        "title": "dollorama",
+        "filename": "realisations-dollorama-2.jpg"
+      },
+      {
+        "title": "évoila5",
+        "filename": "realisations-evoila5-1.jpg"
+      },
+      {
+        "title": "évoila5",
+        "filename": "realisations-evoila5-3.jpg"
+      },
+      {
+        "title": "évoila5",
+        "filename": "realisations-evoila52.jpg"
+      }
+    ]
+  }
+
+}

@@ -1,0 +1,48 @@
+.root {
+  background-image: none,
+    linear-gradient(
+      to top,
+      rgba(255, 255, 255, 0.75) 0px,
+      rgba(255, 255, 255, 0.8) 10px,
+      rgba(255, 255, 255, 0.86) 20px,
+      rgba(255, 255, 255, 0.9) 30px,
+      rgba(255, 255, 255, 0.94) 40px,
+      rgba(255, 255, 255, 0.98) 50px,
+      rgba(255, 255, 255, 0.99) 60px,
+      #ffffff 70px
+    );
+}
+
+.phone-wrapper {
+  @apply text-[13px] font-medium text-white flex items-center space-x-1;
+}
+
+.phone-icon {
+  @apply w-4 h-4 text-white;
+}
+
+.wrapper {
+  @apply flex justify-between relative;
+}
+
+.logo {
+  @apply flex-1 lg:flex-auto flex justify-center lg:block py-[30px] lg:pr-[30px];
+}
+
+.nav-wrapper {
+  @apply hidden lg:flex items-center;
+}
+
+.nav {
+  @apply flex items-center space-x-12;
+}
+
+.nav-link {
+  @apply text-sm font-semibold relative uppercase transition-opacity hover:opacity-50 py-10;
+  @apply before:h-[3px] before:absolute before:left-0 before:right-0 before:bg-primary before:bottom-10;
+  @apply before:opacity-0 before:transition-all hover:before:opacity-100 hover:before:bottom-8 before:duration-300;
+}
+
+.sidebar-button {
+  @apply block lg:hidden absolute right-4 sm:right-9 top-1/2 -translate-y-1/2;
+}

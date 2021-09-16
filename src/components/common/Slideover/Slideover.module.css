@@ -1,0 +1,35 @@
+.dialog {
+  @apply fixed inset-0 overflow-hidden z-50 block lg:hidden;
+}
+
+.outside-wrapper {
+  @apply absolute inset-0 overflow-hidden;
+}
+
+.overlay {
+  @apply absolute inset-0 bg-black/60;
+}
+
+.inside-wrapper {
+  @apply fixed inset-y-0 left-0 max-w-full flex;
+}
+
+.content-wrapper {
+  @apply w-screen relative max-w-sm bg-white h-full shadow-xl overflow-y-auto px-[30px] pt-[30px];
+}
+
+.close-button {
+  @apply absolute top-0 right-0 bg-primary p-0.5;
+}
+
+.close-icon {
+  @apply h-7 w-7 text-white;
+}
+
+.nav {
+  @apply divide-y divide-gray-300;
+}
+
+.nav-item {
+  @apply block uppercase text-lg py-4 font-medium transition-opacity hover:opacity-60;
+}

@@ -1,0 +1,19 @@
+.root {
+  @apply relative flex items-center py-16;
+}
+
+.parallax {
+  @apply h-full w-full absolute inset-0 z-[-1];
+}
+
+.overlay {
+  @apply absolute inset-0 bg-primary/80 before:absolute before:inset-0 before:bg-black/50;
+}
+
+.paragraph {
+  @apply text-white text-center mt-8;
+}
+
+.image-wrapper {
+  @apply relative h-full bottom-32;
+}

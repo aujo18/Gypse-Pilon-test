@@ -1,0 +1,11 @@
+.root {
+  @apply bg-white text-gray-text py-16;
+}
+
+.presentation {
+  @apply max-w-lg;
+}
+
+.contact-title {
+  @apply font-bold uppercase text-2xl my-4;
+}

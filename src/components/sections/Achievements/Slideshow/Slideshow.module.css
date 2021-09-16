@@ -1,0 +1,19 @@
+.slide {
+  @apply block relative w-[320px] h-[240px];
+}
+
+.slide-overlay {
+  @apply absolute inset-0 opacity-0 transition-opacity hover:opacity-100 bg-gradient-to-t from-black/70 to-transparent;
+}
+
+.slide-title {
+  @apply absolute bottom-4 left-6 text-white uppercase font-semibold text-lg;
+}
+
+.slide-icon-wrapper {
+  @apply absolute right-3 top-3 border-2 p-2 rounded-full border-white;
+}
+
+.slide-icon {
+  @apply text-white w-7 h-7;
+}
