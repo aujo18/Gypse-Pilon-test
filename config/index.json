@@ -1,9 +1,9 @@
 {
-  "primaryColor": "#c58037",
+  "primaryColor": "#DC232E",
 
   "logo": {
     "fileName": "logo.png",
-    "height": 75,
+    "height": 133,
     "width": 313
   },
 
@@ -37,12 +37,12 @@
   ],
 
   "contacts": {
-    "address": "199, rue de l'École, Les Coteaux, QC J7X 1A2", 
-    "phone": "(450) 267-9255",
-    "mobile": "(514) 809-8755",
-    "email": "adm@airjc.ca",
-    "fax": "(450) 267-7053",
-    "additional": "# R.B.Q.: 8332-3360-05"
+    "address": "Saint-Clet, QC J0P 1S0", 
+    "phone": "(450) 807-7172",
+    "mobile": "(555) 555-5555",
+    "email": "info@gypsepilon.com",
+    "fax": "(555) 555-5555",
+    "additional": "# R.B.Q.: 5712-2566-01"
   },
 
   "achievements": {
