@@ -10,13 +10,13 @@
   "Hero": {
     "title": "Need a high-performance ventilation system?",
     "subtitle": "We design solutions for business, industry and home use.",
-    "button": "Contact Us"
+    "button": "Nous Joindre"
   },
 
   "Presentation": {
     "title": "Gypse Pilon",
     "articleTitle": "SPÉCIALISTE EN POSE DE GYPSE",
-    "article": "Whatever your ventilation/heating/air conditioning needs, Ventilation Air J.C. Inc. has a solution for you. We have been installing ventilation ducts, heating and air conditioning systems in the Vaudreuil-Soulanges region and in Greater Montréal for over 30 years. Backed by our extensive experience, we provide consultation services and execute contracts in the commercial, industrial and residential sectors. Ventilation Air J.C. Inc. enjoys a wide reputation for exceptional quality work. Each contract entrusted to us, regardless of complexity or sector, is given a unique design adapted to the needs and constraints of the building it’s intended for, so that it fully responds to your needs."
+    "article": "La pose de gypse est une étape importante pour une finition raffiné dans la réalisation de vos projets, il est important de vous entourer d’une équipe dont le savoir-faire et l’expérience font partie intégrante dans la réalisation de vos projets. Mathieu et son équipe sont des charpentiers-menuisiers forts expérimentés cumulant plus plusieurs années d’expérience dans le domaine de la construction. En nous confiant la réalisation de vos travaux, vous pouvez avoir la certitude que tout sera fait conformément à vos attentes."
   },
 
   "Testimonials": {
@@ -45,12 +45,12 @@
     "presentation": "Looking for a system that will guarantee optimum air quality and comfort in your home, business or industry? Free estimate with no commitment on your part. Contact us!",
     "contactTitle": "Gypse Pilon inc.",
     "phoneLabel": "Téléphone",
-    "mobileLabel": "Courriel",
-    "emailLabel": "Cellulaire",
+    "mobileLabel": "Cellulaire",
+    "emailLabel": "Courriel",
     "faxLabel": "Télécopieur"
   },
 
   "Footer": {
-    "text": "Tous droits réservés © 2021. Gypse Pilon inc. | biwers.net"
+    "text": "Tous droits réservés © 2021. Gypse Pilon inc."
   }
 }
