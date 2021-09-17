@@ -41,6 +41,11 @@ const ContactUs: FC = () => {
                 {contacts.fax}
               </li>
             )}
+             {contacts?.additional && (
+              <li>
+                {contacts.additional}
+              </li>
+            )}
           </ul>
         </div>
       </Container>
