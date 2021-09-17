@@ -5,6 +5,7 @@ import { NextIntlProvider } from 'next-intl'
 
 import type { AppProps } from 'next/app'
 import { useEffect } from 'react'
+import { Head } from '@components/common'
 
 function MyApp({ Component, pageProps }: AppProps) {
   useEffect(() => {
@@ -12,11 +13,14 @@ function MyApp({ Component, pageProps }: AppProps) {
   }, [])
 
   return (
-    <NextIntlProvider messages={pageProps.messages}>
-      <ParallaxProvider>
-        <Component {...pageProps} />
-      </ParallaxProvider>
-    </NextIntlProvider>
+    <>
+      <Head />
+      <NextIntlProvider messages={pageProps.messages}>
+        <ParallaxProvider>
+          <Component {...pageProps} />
+        </ParallaxProvider>
+      </NextIntlProvider>
+    </>
   )
 }
 export default MyApp
