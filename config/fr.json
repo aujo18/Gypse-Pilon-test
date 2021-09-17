@@ -14,8 +14,8 @@
   },
 
   "Presentation": {
-    "title": "ventilation air j.c.",
-    "articleTitle": "CONTRACTOR SPECIALIZING IN VENTILATION, HEATING AND AIR CONDITIONING",
+    "title": "Gypse Pilon",
+    "articleTitle": "SPÉCIALISTE EN POSE DE GYPSE",
     "article": "Whatever your ventilation/heating/air conditioning needs, Ventilation Air J.C. Inc. has a solution for you. We have been installing ventilation ducts, heating and air conditioning systems in the Vaudreuil-Soulanges region and in Greater Montréal for over 30 years. Backed by our extensive experience, we provide consultation services and execute contracts in the commercial, industrial and residential sectors. Ventilation Air J.C. Inc. enjoys a wide reputation for exceptional quality work. Each contract entrusted to us, regardless of complexity or sector, is given a unique design adapted to the needs and constraints of the building it’s intended for, so that it fully responds to your needs."
   },
 
@@ -43,7 +43,7 @@
   "ContactUs": {
     "title": "nous joindre",
     "presentation": "Looking for a system that will guarantee optimum air quality and comfort in your home, business or industry? Free estimate with no commitment on your part. Contact us!",
-    "contactTitle": "VENTILATION AIR J.C.",
+    "contactTitle": "Gypse Pilon inc.",
     "phoneLabel": "Téléphone",
     "mobileLabel": "Courriel",
     "emailLabel": "Cellulaire",
@@ -51,6 +51,6 @@
   },
 
   "Footer": {
-    "text": "Tous droits réservés © 2021. Ventilation Air J. C.. | Création de site internet par ÉQUATION"
+    "text": "Tous droits réservés © 2021. Gypse Pilon inc. | biwers.net"
   }
 }
