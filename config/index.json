@@ -22,18 +22,9 @@
   },
 
   "partners": [
-    { "logo-filname": "daikin-logo.jpg", "name": "dalkin" },
-    { "logo-filname": "deluxair-logo.jpg", "name": "deluxair" },
-    { "logo-filname": "gree-logo.jpg", "name": "gree" },
-    { "logo-filname": "kelvinator-logo.jpg", "name": "kelvinator" },
-    { "logo-filname": "maxiair-logo.jpg", "name": "maxiair" },
-    { "logo-filname": "payne-logo.jpg", "name": "payne" },
-    { "logo-filname": "sensi-logo.jpg", "name": "sensi" },
-    { "logo-filname": "summeraire-logo.jpg", "name": "summeraire" },
-    { "logo-filname": "vanee.jpg", "name": "vanee" },
-    { "logo-filname": "venmar-logo.jpg", "name": "venmar" },
-    { "logo-filname": "windair.jpg", "name": "windair" },
-    { "logo-filname": "york-logo.jpg", "name": "york" }
+    { "logo-filname": "vie-logo.jpg", "name": "Les héros de la réno" },
+    { "logo-filname": "farand-logo.jpg", "name": "Groupe Sylain Farand" },
+    { "logo-filname": "sp-logo.jpg", "name": "Construction St-Pierre" }
   ],
 
   "contacts": {
