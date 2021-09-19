@@ -49,36 +49,20 @@
     "backgroundFilename": "achievement-bg.jpg",
     "photosSlideshow": [
       {
-        "title": "forever 21",
-        "filename": "realisations-forever21-1.jpg"
+        "title": "Image job 1",
+        "filename": "realisations-1238.jpg"
       },
       {
-        "title": "forever 21",
-        "filename": "realisations-forever21-2.jpg"
+        "title": "Image job 2",
+        "filename": "realisations-1239.jpg"
       },
       {
-        "title": "forever 21",
-        "filename": "realisations-forever21-3.jpg"
+        "title": "Image Job 3",
+        "filename": "realisations-1240.jpg"
       },
       {
-        "title": "dollorama",
-        "filename": "realisations-dollorama-1.jpg"
-      },
-      {
-        "title": "dollorama",
-        "filename": "realisations-dollorama-2.jpg"
-      },
-      {
-        "title": "évoila5",
-        "filename": "realisations-evoila5-1.jpg"
-      },
-      {
-        "title": "évoila5",
-        "filename": "realisations-evoila5-3.jpg"
-      },
-      {
-        "title": "évoila5",
-        "filename": "realisations-evoila52.jpg"
+        "title": "Image job 4",
+        "filename": "realisations-1241.jpg"
       }
     ]
   }
