@@ -49,19 +49,19 @@
     "backgroundFilename": "achievement-bg.jpg",
     "photosSlideshow": [
       {
-        "title": "Image job 1",
+        "title": "1",
         "filename": "realisations-1238.jpg"
       },
       {
-        "title": "Image job 2",
+        "title": "2",
         "filename": "realisations-1239.jpg"
       },
       {
-        "title": "Image Job 3",
+        "title": "3",
         "filename": "realisations-1240.jpg"
       },
       {
-        "title": "Image job 4",
+        "title": "4",
         "filename": "realisations-1241.jpg"
       }
     ]
