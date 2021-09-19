@@ -1,10 +1,9 @@
 {
   "Navbar": {
     "0": "à propos",
-    "1": "produits",
+    "1": "clients",
     "2": "réalisations",
-    "3": "nous joindre",
-    "4": "english"
+    "3": "nous joindre"
   },
 
   "Hero": {
@@ -31,8 +30,8 @@
   },
 
   "Partners": {
-    "title": "OUR VENTILATION, HEATING AND AIR CONDITIONING PRODUCTS:",
-    "description": "We offer the leading brands in the ventilation, air conditioning and heating industry. Can’t find the brand you want? Contact us and we’ll get it for you!"
+    "title": "Clients",
+    "description": "Quelques-uns de nos clients"
   },
 
   "Achievements": {
