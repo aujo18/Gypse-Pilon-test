@@ -3,7 +3,9 @@ import Achievements from '@components/sections/Achievements'
 import ContactUs from '@components/sections/ContactUs'
 import Hero from '@components/sections/Hero'
 import Partners from '@components/sections/Partners'
+import FixedSocials from '@components/sections/FixedSocials'
 import Presentation from '@components/sections/Presentation'
+
 import { Container } from '@components/ui'
 import type { GetStaticPropsContext, NextPage } from 'next'
 
@@ -11,6 +13,7 @@ const Home: NextPage<{ locale: string }> = ({ locale }) => {
   return (
     <>
       <Navbar locale={locale} />
+      <FixedSocials />
       <Hero />
       <Presentation />
       <Container>
