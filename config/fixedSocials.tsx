@@ -4,7 +4,7 @@ const fixedSocials = [
   {
     socialName: 'Facebook',
     Icon: Facebook,
-    href: '#',
+    href: 'https://www.facebook.com/',
   },
   {
     socialName: 'Twitter',
