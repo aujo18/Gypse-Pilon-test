@@ -1,0 +1,7 @@
+.root {
+  @apply fixed bottom-64 bg-black/60 flex flex-col justify-evenly items-center space-y-7 sm:space-y-8 z-50 p-4 sm:p-5;
+}
+
+.icon {
+  @apply text-white h-7 sm:h-8 w-7 sm:w-8;
+}

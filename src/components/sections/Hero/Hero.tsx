@@ -28,7 +28,14 @@ const Hero: FC = () => {
         <div className={s['cta-wrapper']}>
           <h1 className={s['cta-title']}>{t('title')}</h1>
           <h2 className={s['cta-subtitle']}>{t('subtitle')}</h2>
-          <button className={s['cta-button']}>{t('button')}</button>
+          <button
+            onClick={() =>
+              document.getElementById('contact-us')?.scrollIntoView()
+            }
+            className={s['cta-button']}
+          >
+            {t('button')}
+          </button>
         </div>
       </div>
 
