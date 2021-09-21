@@ -6,21 +6,6 @@ const fixedSocials = [
     Icon: Facebook,
     href: 'https://www.facebook.com/',
   },
-  {
-    socialName: 'Twitter',
-    Icon: Twitter,
-    href: '#',
-  },
-  {
-    socialName: 'Instagram',
-    Icon: Instagram,
-    href: '#',
-  },
-  {
-    socialName: 'Youtube',
-    Icon: Youtube,
-    href: '#',
-  },
 ]
 
 export default fixedSocials
