@@ -45,7 +45,9 @@
     "presentation": "Need a reliable partner to carry out your residential and commercial construction projects?",
     "contactTitle": "Gypse Pilon inc.",
     "phoneLabel": "Phone",
-    "emailLabel": "Email"
+    "mobileLabel": "Mobile",
+    "emailLabel": "Email",
+    "faxLabel": "Fax"
   },
 
   "Footer": {

@@ -30,7 +30,9 @@
   "contacts": {
     "address": "Saint-Clet, QC J0P 1S0", 
     "phone": "(450) 807-7172",
+    "mobile": "(555) 555-5555",
     "email": "info@gypsepilon.com",
+    "fax": "(555) 555-5555",
     "additional": "# R.B.Q.: 5712-2566-01"
   },
 
