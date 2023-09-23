@@ -22,12 +22,12 @@
   },
 
   "partners": [
-    { "logo-filname": "", "name": "" },
-    { "logo-filname": "", "name": "" },
     { "logo-filname": "herosreno-logo.jpg", "name": "Les héros de la réno" },
     { "logo-filname": "habsm-logo.jpg", "name": "Les Habitations Sylvain Ménard" },
-    { "logo-filname": "", "name": "" },
-    { "logo-filname": "", "name": "" }
+    { "logo-filname": "herosreno-logo.jpg", "name": "Les héros de la réno" },
+    { "logo-filname": "habsm-logo.jpg", "name": "Les Habitations Sylvain Ménard" },
+    { "logo-filname": "herosreno-logo.jpg", "name": "Les héros de la réno" },
+    { "logo-filname": "habsm-logo.jpg", "name": "Les Habitations Sylvain Ménard" }
   ],
 
   "contacts": {
@@ -48,15 +48,26 @@
       },
       {
         "title": "2",
-        "filename": "realisations-1239.jpg"
+        "filename": "realisations-1241.jpg"
       },
       {
         "title": "3",
-        "filename": "realisations-1240.jpg"
+        "filename": "7105.jpeg"
       },
       {
         "title": "4",
-        "filename": "realisations-1241.jpg"
+        "filename": "0643.jpeg"
+      },
+      {
+        "title": "5",
+        "filename": "0767.jpeg"
+      },
+      {
+        "title": "6",
+        "filename": "0773.jpeg"
+      },
+      {
+        "filename": "7077.jpeg"
       }
     ]
   }
